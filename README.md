@@ -46,10 +46,10 @@ Considerations
 Change Log
 ==========
 
-0.0.0 - 2022-06-02 - Starting code
-1.0.0 - 2022-06-09 - First version
+- 0.0.0 - 2022-06-02 - Starting code
+- 1.0.0 - 2022-06-09 - First version
 
-- Publication on Github
+    - Publication on Github
 
 [1]: <https://en.wikipedia.org/wiki/ISO_8583>
 [2]: <https://spdx.org/licenses/MIT.html>
